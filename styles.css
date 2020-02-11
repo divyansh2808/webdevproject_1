@@ -1,0 +1,98 @@
+body{
+	text-align: center;
+	background-color: hsl(0, 0%, 98%);
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#head1{
+	font-weight: 200;
+	color:hsl(234, 12%, 34%);
+	margin-bottom: 2px;
+	padding-top: 30px;
+	
+
+	
+}
+#head2{
+	margin-top: 0px;
+	color:hsl(234, 12%, 34%);
+	font-weight: 600;
+
+}
+h3{
+	font-weight: 400px;
+	color:hsl(234, 12%, 34%);
+	text-align: left;
+	padding: 20px;
+	padding-bottom: 0px;
+
+
+}
+.para2{
+	color: hsl(229, 6%, 66%);
+	text-align: left;
+	padding-left: 20px;
+
+}
+.para{
+	color: hsl(229, 6%, 66%);
+	text-align: center;
+	margin-top: 0px;
+	
+}
+img{
+	position: absolute;
+	right: 25px;
+}
+
+div{
+	position: relative;
+}
+.div1{
+	height: 250px;
+	width: 350px;
+	color: white;
+	box-shadow: 0px 5px 10px grey;
+	border-radius: 10px;
+	border-top: 3px solid hsl(180, 62%, 55%);
+	position: absolute;
+	left: 11%;
+	top: 440px;
+
+}
+
+.div2{
+	height: 250px;
+	width: 350px;
+	color: white;
+	box-shadow: 0px 5px 10px grey;
+	border-radius: 10px;
+	border-top: 3px solid hsl(0, 78%, 62%);
+	position: absolute;
+	top: 300px;
+	left: 37.5%
+}
+.div3{
+	height: 250px;
+	width: 350px;
+	color: white;
+	box-shadow: 0px 5px 10px grey;
+	border-radius: 10px;
+	border-top: 3px solid hsl(34, 97%, 64%);
+	position: absolute;
+	top: 580px;
+	left: 37.5%
+
+}
+.div4{
+	height: 250px;
+	width: 350px;
+	color: white;
+	box-shadow: 0px 5px 10px grey;
+	border-radius: 10px;
+	border-top: 3px solid hsl(212, 86%, 64%);
+	position: absolute;
+	top: 440px;
+	right: 11.68%;
+}
+
